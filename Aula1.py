@@ -31,5 +31,4 @@ print("Meu nome é {} e tenho {} anos".format(nome, idade))
 
 ''' 
 Comentario em bloco
-
 '''
