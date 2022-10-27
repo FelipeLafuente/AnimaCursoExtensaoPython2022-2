@@ -1,4 +1,4 @@
-# AULA 1 - 19/10/2022
+# Aula 1 - 19/10/2022
 
 # Meu primeiro projeto Python!!! 
 

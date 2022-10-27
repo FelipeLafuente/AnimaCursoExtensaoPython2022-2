@@ -1,4 +1,4 @@
-# AULA 2 - 26/10/2022
+# Parte A da Aula 2 - 26/10/2022
 
 # comando input(): quero permitir que o usuário digite algo 
 
