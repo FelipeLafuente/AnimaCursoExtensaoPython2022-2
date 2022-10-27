@@ -12,3 +12,4 @@ elif (nota >= 6 and nota < 10):
  print(f" Bom Trabalho {nome} ")
 else:
   print("Precisa estudar mais")
+  
