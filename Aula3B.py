@@ -17,6 +17,7 @@ def calcular_imposto(preco_produto):
   return imposto
 
 #Aqui é o uso... aqui é imposto a calcular.. e exibir na tela
+  
 preco = 299
 imposto = calcular_imposto(preco)
 print(imposto)
