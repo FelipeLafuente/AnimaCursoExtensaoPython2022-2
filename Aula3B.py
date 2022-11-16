@@ -30,6 +30,7 @@ print(preco_produto) #????
 #agora calcular imposto a alíquota agora é 7%
 
 valores = [1.99, 24.50, 78.27, 1515.5]
+
 # se eu quiser calcular o imposto destes quatro valores... e exibir na tela assim: "O imposto de .... é ...." (1o. preço, 2o. imposto)
 
 for valor in valores:
