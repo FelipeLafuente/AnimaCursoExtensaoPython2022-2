@@ -1,6 +1,7 @@
 # Parte A da Aula 4 - 16/11/2022
 
 #1 Passo: importar a biblioteca sqlite3
+
 import sqlite3
 
 #2 Passo: Vamos estabelecer uma conexão com o banco de dados
